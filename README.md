@@ -1,7 +1,10 @@
 # DSA Assignment 1
 ## Name - Adrita Buragohain
+
 ## Scholar ID - 2012185
+
 Subject Code - CS201
+
 National Institute of Technology, Silchar
 
 ## Problem Statements
